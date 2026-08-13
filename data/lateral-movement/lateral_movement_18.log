@@ -1,0 +1,10 @@
+time=2026-06-18T14:37:27.034406 event_type=public_access username=aneesh client_ip=172.18.0.1 target_host=public-web action=login_attempt status=success
+time=2026-07-18T14:37:47.237177 event_type=lateral_movement username=aneesh client_ip=172.18.0.1 target_host=internal-admin action=pivot_attempt status=initiated
+time=2026-06-18T14:37:47.309369 event_type=internal_access username=aneesh client_ip=172.18.0.1 target_host=internal-admin action=admin_resource_access status=success
+time=2026-06-18T14:37:47.314894 event_type=lateral_movement username=aneesh client_ip=172.18.0.1 target_host=internal-admin action=pivot_attempt status=success
+time=2026-06-18T18:59:47.348946 event_type=public_access username=aneesh client_ip=172.18.0.1 target_host=public-web action=login_attempt status=success
+time=2026-06-18T18:59:55.335909 event_type=lateral_movement username=aneesh client_ip=172.18.0.1 target_host=internal-admin action=pivot_attempt status=initiated
+time=2026-06-18T18:59:55.335909 event_type=lateral_movement username=aneesh client_ip=172.18.0.1 target_host=internal-admin action=pivot_attempt status=initiated
+time=2026-06-18T19:00:05.201176 event_type=lateral_movement username=aneesh client_ip=172.18.0.1 target_host=internal-admin action=pivot_attempt status=failed
+time=2026-06-18T19:00:06.747411 event_type=internal_access username=aneesh client_ip=172.18.0.1 target_host=internal-admin action=admin_resource_access status=success
+time=2026-06-18T19:01:16.636094 event_type=lateral_movement username=aneesh client_ip=172.18.0.1 target_host=internal-admin action=pivot_attempt status=initiated
