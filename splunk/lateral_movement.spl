@@ -1,0 +1,3 @@
+index=lateral source=
+"*lateral_movement_raw.log*" 
+| table _time sourcetype source _raw

@@ -1,0 +1,10 @@
+index=winevent_security EventCode=4625 | 
+stats count by Source_Network_Address 
+Logon_Type ComputerName | 
+sort - count
+
+index=sysmon "<EventID>1</EventID>" | 
+head 20 
+
+index=sysmon "<EventID>3</EventID>" | 
+head 20

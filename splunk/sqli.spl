@@ -1,0 +1,3 @@
+index=web_masked ("MASKED_USER" 
+OR "MASKED_IP" OR "MASKED_SESSION") 
+| head 20

@@ -1,0 +1,4 @@
+sourcetype=exfil_http_raw | head 20
+
+index=exfil_masked 
+sourcetype=exfil_http_masked | head 20
