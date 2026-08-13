@@ -1,0 +1,7 @@
+2026-06-18T21:35:33 client_ip=192.168.1.88 username=sarah.lee@lab.local sessionid=NEWMASK4001 uri="/dvwa/vulnerabilities/sqli/?id=9' OR '1'='1" status=500
+2026-06-16T20:40:24 client_ip=192.168.1.77 username=mark.jones@lab.local sessionid=NEWMASK3001 uri="/dvwa/vulnerabilities/sqli/?id=8' UNION SELECT database(),user()--" status=200
+2026-06-16T20:40:01 client_ip=192.168.1.44 username=david.fern@lab.local sessionid=NEWMASK1001 uri="/dvwa/vulnerabilities/sqli/?id=5' OR '1'='1" status=200
+2026-06-18T21:40:33 client_ip=192.168.1.88 username=sarah.lee@lab.local sessionid=NEWMASK4001 uri="/dvwa/vulnerabilities/sqli/?id=9' OR '1'='1" status=500
+2026-06-16T20:40:08 client_ip=192.168.1.45 username=eva.ross@lab.local sessionid=NEWMASK1002 uri="/dvwa/vulnerabilities/sqli/?id=6' UNION SELECT user,password FROM users--" status=200
+2026-06-16T20:40:15 client_ip=192.168.1.66 username=frank.mills@lab.local sessionid=NEWMASK2001 uri="/dvwa/vulnerabilities/sqli/?id=7' OR '1'='1" status=200
+2026-06-16T20:40:24 client_ip=192.168.1.77 username=mark.jones@lab.local sessionid=NEWMASK3001 uri="/dvwa/vulnerabilities/sqli/?id=8' UNION SELECT database(),user()--" status=200
