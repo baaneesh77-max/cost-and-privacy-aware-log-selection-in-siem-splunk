@@ -1,0 +1,5 @@
+CustomerName: Alice Murphy
+Email: alice.murphy@example.com
+Phone: +353871234567
+AccountID: ACCT-908712
+CardLast4: 4421
